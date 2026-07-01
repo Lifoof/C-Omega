@@ -13,7 +13,7 @@ This repository contains the core model implementation, feature engineering pipe
 ## ✨ Key Features
 
 - **Systemic biological age** with high accuracy (MAE: 2.89 yr/male, 2.20 yr/female; R²: 0.76/male, 0.85/female)
-- **Nine organ‑specific models** (e.g., cardiovascular, pulmonary, immune, nutritional, digestive, hematopoietic, musculoskeletal, endocrine, renal.)
+- **Nine organ‑specific models** (e.g., cardiovascular, pulmonary, musculoskeletal, etc.)
 - **Sex‑specific** modeling capturing hormonal (females) and functional decline (males) patterns
 - **Prognostic utility** – AgeGap correlates with current disease burden, future incidence of 73 diseases and clinical events, and mortality
 - **SHAP‑based interpretability** for feature contribution analysis
