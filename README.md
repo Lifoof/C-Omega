@@ -20,4 +20,6 @@ This repository contains the core model implementation, feature engineering pipe
 
 ---
 
-**🔗 Online Platform**: [https://omega.nanhulab.ac.cn/](https://omega.nanhulab.ac.cn/) 
+## 🔗 Online Platform: [https://omega.nanhulab.ac.cn/](https://omega.nanhulab.ac.cn/) 
+
+---
